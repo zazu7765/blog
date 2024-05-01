@@ -2,6 +2,9 @@
 title: A Small Go API Challenge
 description: My notes on building a quick REST API using the net/http library in the Go programming language.
 date: 2024-03-19
+tags:
+    - stdAPI
+    - go
 ---
 
 <span style="font-size: 1.25em; font-weight: bold;">Building APIs from scratch </span>isn't easy in many programming languages, but Go is one of my favorites for being able to build almost any kind of MVP using almost entirely standard library tools.
